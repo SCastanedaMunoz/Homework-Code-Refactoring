@@ -40,5 +40,9 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+# Refactoring 
+
+Code has been refactored to meet quality standards and be more a more intuitive experience when developers come and take a look inside. Styling has been greatly simplified and consized for the current needs of the project. HTML Code has been formatter and provided specific semantic elements to describe sections as needed.
+
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
